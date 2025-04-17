@@ -1,2 +1,2 @@
-# OSU-Thesis-Files
-Supplementary Files for Thesis - Climate Change and Wintering Ducks: Distribution Shifts in the Upper Mississippi River and Great Lakes Joint Venture Region
+# Andrea Spurck, The Ohio State University
+Supplementary Files for Master's Thesis - Climate Change and Wintering Ducks: Distribution Shifts in the Upper Mississippi River and Great Lakes Joint Venture Region. Files for three duck groups: mallards and American black ducks, wetland obligate dabbling ducks, and diving ducks are organized by branches using the dropdown selection. The full thesis can be found on OhioLink.
